@@ -1,4 +1,5 @@
 1.練習用
 2.ローカルリポジトリ へ移動
-3.add commit 追加
-4.git rm 
+3.check add commit
+4.check git rm
+5.check git status 
