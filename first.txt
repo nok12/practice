@@ -2,4 +2,5 @@
 2.ローカルリポジトリ へ移動
 3.check add commit
 4.check git rm
-5.check git status 
+5.check git status
+6.check git diff 
